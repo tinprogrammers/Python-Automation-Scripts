@@ -68,7 +68,7 @@ pip install instaloader pillow pywhatkit
 ## 🙌 Author
 
 Made with chai ☕ and Python 🐍 by **Azeem Teli**
-Follow my publication **[PyZilla](https://medium.com/pyzilla)** for daily Python tips & tutorials.
+Follow my publication **[PyZilla](https://medium.com/pyzilla/python-automation-scripts-that-made-my-life-easier-18fc604d7337?sk=0a8e04446e0fd658bd1a7d13ca7d08f3)** for daily Python tips & tutorials.
 
 ---
 
